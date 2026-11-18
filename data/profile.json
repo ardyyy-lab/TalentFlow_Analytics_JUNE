@@ -1,0 +1,55 @@
+{
+  "name": "June Dela Cruz",
+  "photo": "",
+  "headline": "Mathematician and prescriptive analytics specialist",
+  "bio": "June Dela Cruz is a mathematics graduate who turns hiring and staffing questions into models a manager can act on. He specializes in prescriptive analytics: linear programming to decide how many placements of each job type to make each month, sensitivity analysis to show which limits (recruiter hours, candidate supply, sourcing budget) hold revenue back and what relaxing them is worth, and queueing models that size interview teams so candidates do not wait.\n\nHe builds these tools in Excel Solver and Python, checks them against hand calculations, and explains the results in plain language to non-technical teams.",
+  "education": [
+    {
+      "school": "Southern Luzon State University",
+      "degree": "BS Mathematics",
+      "years": ""
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Linear programming",
+      "level": "Advanced"
+    },
+    {
+      "skill": "Sensitivity analysis",
+      "level": "Advanced"
+    },
+    {
+      "skill": "Queueing theory (M/M/s)",
+      "level": "Advanced"
+    },
+    {
+      "skill": "Mathematical modeling",
+      "level": "Advanced"
+    },
+    {
+      "skill": "Statistics and data analysis",
+      "level": "Advanced"
+    },
+    {
+      "skill": "Excel Solver",
+      "level": "Advanced"
+    },
+    {
+      "skill": "Python (SciPy, pandas)",
+      "level": "Intermediate"
+    },
+    {
+      "skill": "Streamlit dashboards",
+      "level": "Intermediate"
+    },
+    {
+      "skill": "Data visualization",
+      "level": "Intermediate"
+    },
+    {
+      "skill": "Explaining results to non-technical teams",
+      "level": "Intermediate"
+    }
+  ]
+}
